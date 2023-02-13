@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <assemblyIdentity name="NP Archives.application" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <assemblyIdentity name="NP Archives.application" version="1.0.0.0" publicKeyToken="0000000000000000" language="en" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="Ronit Shrivastav" asmv2:product="NP Archives" xmlns="urn:schemas-microsoft-com:asm.v1" />
-  <deployment install="true" mapFileExtensions="true" minimumRequiredVersion="1.0.0.1" co.v1:createDesktopShortcut="true">
+  <deployment install="true" mapFileExtensions="true" minimumRequiredVersion="1.0.0.0" co.v1:createDesktopShortcut="true">
     <subscription>
       <update>
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://raw.githubusercontent.com/technotoxs07/Winform-Update/main/published/NP%20Archives.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/technotoxs07/NP-Archives-Update/main/published/NP%20Archives.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\NP Archives_1_0_0_2\NP Archives.dll.manifest" size="8844">
-      <assemblyIdentity name="NP Archives.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+    <dependentAssembly dependencyType="install" codebase="Application Files\NP Archives_1_0_0_0\NP Archives.dll.manifest" size="8839">
+      <assemblyIdentity name="NP Archives.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="en" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mGUl/yg5CfkRe1DsSGHGcGlEBAQ+mJTIl2eCCbBhQiQ=</dsig:DigestValue>
+        <dsig:DigestValue>aGUO9hBTQuT09z2acqwuFUeassKaRVbZ5iK3M6flgwE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
