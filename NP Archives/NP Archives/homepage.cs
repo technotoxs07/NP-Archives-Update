@@ -168,7 +168,7 @@ namespace NP_Archives
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Only For Bachelor's And Authenticated User", MessageBoxButtons.RetryCancel.ToString());
+            MessageBox.Show("Only For CSIT And Admin", MessageBoxButtons.RetryCancel.ToString());
         }
     }
 }
