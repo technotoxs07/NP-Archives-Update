@@ -33,19 +33,19 @@
             this.webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
             this.modelquestionpage = new System.Windows.Forms.TabPage();
             this.webView22 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.backbtn = new System.Windows.Forms.Button();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.webView23 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.webView24 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.backbtn = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.textbookpage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView21)).BeginInit();
             this.modelquestionpage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView22)).BeginInit();
             this.tabPage1.SuspendLayout();
-            this.tabPage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView23)).BeginInit();
+            this.tabPage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView24)).BeginInit();
             this.SuspendLayout();
             // 
@@ -79,14 +79,12 @@
             // webView21
             // 
             this.webView21.AllowExternalDrop = true;
-            this.webView21.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.webView21.CreationProperties = null;
             this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView21.Location = new System.Drawing.Point(0, 0);
+            this.webView21.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView21.Location = new System.Drawing.Point(3, 3);
             this.webView21.Name = "webView21";
-            this.webView21.Size = new System.Drawing.Size(1204, 525);
+            this.webView21.Size = new System.Drawing.Size(1196, 519);
             this.webView21.TabIndex = 0;
             this.webView21.ZoomFactor = 1D;
             // 
@@ -104,16 +102,60 @@
             // webView22
             // 
             this.webView22.AllowExternalDrop = true;
-            this.webView22.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.webView22.CreationProperties = null;
             this.webView22.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView22.Location = new System.Drawing.Point(0, 0);
+            this.webView22.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView22.Location = new System.Drawing.Point(3, 3);
             this.webView22.Name = "webView22";
-            this.webView22.Size = new System.Drawing.Size(1204, 525);
+            this.webView22.Size = new System.Drawing.Size(1196, 519);
             this.webView22.TabIndex = 1;
             this.webView22.ZoomFactor = 1D;
+            // 
+            // tabPage1
+            // 
+            this.tabPage1.Controls.Add(this.webView23);
+            this.tabPage1.Location = new System.Drawing.Point(4, 28);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Size = new System.Drawing.Size(1202, 525);
+            this.tabPage1.TabIndex = 2;
+            this.tabPage1.Text = "Exam Question";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // webView23
+            // 
+            this.webView23.AllowExternalDrop = true;
+            this.webView23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
+            this.webView23.CreationProperties = null;
+            this.webView23.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView23.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView23.Location = new System.Drawing.Point(0, 0);
+            this.webView23.Name = "webView23";
+            this.webView23.Size = new System.Drawing.Size(1202, 525);
+            this.webView23.TabIndex = 1;
+            this.webView23.ZoomFactor = 1D;
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.webView24);
+            this.tabPage2.Location = new System.Drawing.Point(4, 28);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Size = new System.Drawing.Size(1202, 525);
+            this.tabPage2.TabIndex = 3;
+            this.tabPage2.Text = "Model Question Solution";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // webView24
+            // 
+            this.webView24.AllowExternalDrop = true;
+            this.webView24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
+            this.webView24.CreationProperties = null;
+            this.webView24.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView24.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView24.Location = new System.Drawing.Point(0, 0);
+            this.webView24.Name = "webView24";
+            this.webView24.Size = new System.Drawing.Size(1202, 525);
+            this.webView24.TabIndex = 1;
+            this.webView24.ZoomFactor = 1D;
             // 
             // backbtn
             // 
@@ -129,56 +171,6 @@
             this.backbtn.TabIndex = 63;
             this.backbtn.UseVisualStyleBackColor = false;
             this.backbtn.Click += new System.EventHandler(this.backbtn_Click);
-            // 
-            // tabPage1
-            // 
-            this.tabPage1.Controls.Add(this.webView23);
-            this.tabPage1.Location = new System.Drawing.Point(4, 28);
-            this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Size = new System.Drawing.Size(1202, 525);
-            this.tabPage1.TabIndex = 2;
-            this.tabPage1.Text = "Exam Question";
-            this.tabPage1.UseVisualStyleBackColor = true;
-            // 
-            // tabPage2
-            // 
-            this.tabPage2.Controls.Add(this.webView24);
-            this.tabPage2.Location = new System.Drawing.Point(4, 28);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Size = new System.Drawing.Size(1202, 525);
-            this.tabPage2.TabIndex = 3;
-            this.tabPage2.Text = "Model Question Solution";
-            this.tabPage2.UseVisualStyleBackColor = true;
-            // 
-            // webView23
-            // 
-            this.webView23.AllowExternalDrop = true;
-            this.webView23.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.webView23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.webView23.CreationProperties = null;
-            this.webView23.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView23.Location = new System.Drawing.Point(0, 0);
-            this.webView23.Name = "webView23";
-            this.webView23.Size = new System.Drawing.Size(1204, 525);
-            this.webView23.TabIndex = 1;
-            this.webView23.ZoomFactor = 1D;
-            // 
-            // webView24
-            // 
-            this.webView24.AllowExternalDrop = true;
-            this.webView24.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.webView24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.webView24.CreationProperties = null;
-            this.webView24.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView24.Location = new System.Drawing.Point(0, 0);
-            this.webView24.Name = "webView24";
-            this.webView24.Size = new System.Drawing.Size(1204, 525);
-            this.webView24.TabIndex = 1;
-            this.webView24.ZoomFactor = 1D;
             // 
             // discretestructure
             // 
@@ -198,8 +190,8 @@
             this.modelquestionpage.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webView22)).EndInit();
             this.tabPage1.ResumeLayout(false);
-            this.tabPage2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webView23)).EndInit();
+            this.tabPage2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webView24)).EndInit();
             this.ResumeLayout(false);
 

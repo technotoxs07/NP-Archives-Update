@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="NP Archives.exe" version="1.0.0.7" publicKeyToken="0000000000000000" language="en" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="NP Archives.exe" version="1.0.0.8" publicKeyToken="0000000000000000" language="en" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -117,13 +117,13 @@
       <dsig:DigestValue>1bPANRHS1dYxrrenl/bM3BBegjpT1TrTDNqa0ruUec4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="NP Archives.dll" size="16265160">
+  <file name="NP Archives.dll" size="16265672">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Z6w7OqvM8nUu8ofZEICI+qWBoVe3WWEvf/s6jIM6kto=</dsig:DigestValue>
+      <dsig:DigestValue>bmm6gDCKam/KDJ0OqMJAAr/4/BQ+oilqvsAlp3xKMso=</dsig:DigestValue>
     </hash>
   </file>
   <file name="NP Archives.exe" size="418760">

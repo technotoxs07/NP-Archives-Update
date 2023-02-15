@@ -159,7 +159,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.pictureBox4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox4.Image = global::NP_Archives.Properties.Resources.kindpng_7041009;
             this.pictureBox4.Location = new System.Drawing.Point(911, 324);
             this.pictureBox4.Name = "pictureBox4";
@@ -170,7 +170,7 @@
             // 
             // button1
             // 
-            this.button1.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.button1.AutoSize = true;
             this.button1.BackColor = System.Drawing.Color.Red;
             this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -243,7 +243,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.pictureBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox3.Image = global::NP_Archives.Properties.Resources.bachelorlvl;
             this.pictureBox3.Location = new System.Drawing.Point(610, 324);
             this.pictureBox3.Name = "pictureBox3";
@@ -254,7 +254,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.pictureBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.pictureBox2.Image = global::NP_Archives.Properties.Resources.schoollevel;
             this.pictureBox2.Location = new System.Drawing.Point(12, 324);
             this.pictureBox2.Name = "pictureBox2";
@@ -265,7 +265,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.pictureBox1.Image = global::NP_Archives.Properties.Resources.collegelogin;
             this.pictureBox1.Location = new System.Drawing.Point(303, 324);
             this.pictureBox1.Name = "pictureBox1";
@@ -276,7 +276,7 @@
             // 
             // button2
             // 
-            this.button2.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.button2.AutoSize = true;
             this.button2.BackColor = System.Drawing.Color.Lime;
             this.button2.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -291,7 +291,7 @@
             // 
             // btncollegelevel
             // 
-            this.btncollegelevel.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.btncollegelevel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.btncollegelevel.AutoSize = true;
             this.btncollegelevel.BackColor = System.Drawing.Color.Lime;
             this.btncollegelevel.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -306,7 +306,7 @@
             // 
             // schoollvlbn
             // 
-            this.schoollvlbn.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.schoollvlbn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.schoollvlbn.AutoSize = true;
             this.schoollvlbn.BackColor = System.Drawing.Color.Lime;
             this.schoollvlbn.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);

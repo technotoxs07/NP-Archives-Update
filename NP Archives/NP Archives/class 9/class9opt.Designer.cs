@@ -52,6 +52,7 @@
             // 
             // backbtn
             // 
+            this.backbtn.AutoSize = true;
             this.backbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
             this.backbtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
             this.backbtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
@@ -60,7 +61,7 @@
             this.backbtn.Image = global::NP_Archives.Properties.Resources.back_to_32px;
             this.backbtn.Location = new System.Drawing.Point(8, 4);
             this.backbtn.Name = "backbtn";
-            this.backbtn.Size = new System.Drawing.Size(46, 37);
+            this.backbtn.Size = new System.Drawing.Size(46, 40);
             this.backbtn.TabIndex = 59;
             this.backbtn.UseVisualStyleBackColor = false;
             this.backbtn.Click += new System.EventHandler(this.backbtn_Click);
@@ -92,14 +93,12 @@
             // webView21
             // 
             this.webView21.AllowExternalDrop = true;
-            this.webView21.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.webView21.CreationProperties = null;
             this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView21.Location = new System.Drawing.Point(0, 0);
+            this.webView21.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView21.Location = new System.Drawing.Point(3, 3);
             this.webView21.Name = "webView21";
-            this.webView21.Size = new System.Drawing.Size(1202, 534);
+            this.webView21.Size = new System.Drawing.Size(1196, 524);
             this.webView21.TabIndex = 0;
             this.webView21.ZoomFactor = 1D;
             // 

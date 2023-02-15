@@ -52,5 +52,10 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
         {
 
         }
+
+        private void webView25_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

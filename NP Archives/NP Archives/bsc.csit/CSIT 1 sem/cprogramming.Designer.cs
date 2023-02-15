@@ -94,9 +94,9 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.webView21.CreationProperties = null;
             this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView21.Location = new System.Drawing.Point(0, 0);
+            this.webView21.Location = new System.Drawing.Point(3, 3);
             this.webView21.Name = "webView21";
-            this.webView21.Size = new System.Drawing.Size(1204, 525);
+            this.webView21.Size = new System.Drawing.Size(1196, 519);
             this.webView21.TabIndex = 0;
             this.webView21.ZoomFactor = 1D;
             // 
@@ -119,9 +119,9 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.webView22.CreationProperties = null;
             this.webView22.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView22.Location = new System.Drawing.Point(0, 0);
+            this.webView22.Location = new System.Drawing.Point(3, 3);
             this.webView22.Name = "webView22";
-            this.webView22.Size = new System.Drawing.Size(1204, 525);
+            this.webView22.Size = new System.Drawing.Size(1196, 519);
             this.webView22.TabIndex = 1;
             this.webView22.ZoomFactor = 1D;
             // 
@@ -146,7 +146,7 @@
             this.webView23.DefaultBackgroundColor = System.Drawing.Color.White;
             this.webView23.Location = new System.Drawing.Point(0, 0);
             this.webView23.Name = "webView23";
-            this.webView23.Size = new System.Drawing.Size(1204, 525);
+            this.webView23.Size = new System.Drawing.Size(1202, 525);
             this.webView23.TabIndex = 1;
             this.webView23.ZoomFactor = 1D;
             this.webView23.Click += new System.EventHandler(this.webView23_Click);
@@ -172,7 +172,7 @@
             this.webView24.DefaultBackgroundColor = System.Drawing.Color.White;
             this.webView24.Location = new System.Drawing.Point(0, 0);
             this.webView24.Name = "webView24";
-            this.webView24.Size = new System.Drawing.Size(1204, 525);
+            this.webView24.Size = new System.Drawing.Size(1202, 525);
             this.webView24.TabIndex = 1;
             this.webView24.ZoomFactor = 1D;
             // 
@@ -197,9 +197,10 @@
             this.webView25.DefaultBackgroundColor = System.Drawing.Color.White;
             this.webView25.Location = new System.Drawing.Point(0, 0);
             this.webView25.Name = "webView25";
-            this.webView25.Size = new System.Drawing.Size(1204, 525);
+            this.webView25.Size = new System.Drawing.Size(1202, 525);
             this.webView25.TabIndex = 1;
             this.webView25.ZoomFactor = 1D;
+            this.webView25.Click += new System.EventHandler(this.webView25_Click);
             // 
             // tabPage4
             // 
@@ -222,12 +223,13 @@
             this.webView26.DefaultBackgroundColor = System.Drawing.Color.White;
             this.webView26.Location = new System.Drawing.Point(0, 0);
             this.webView26.Name = "webView26";
-            this.webView26.Size = new System.Drawing.Size(1204, 525);
+            this.webView26.Size = new System.Drawing.Size(1202, 525);
             this.webView26.TabIndex = 1;
             this.webView26.ZoomFactor = 1D;
             // 
             // backbtn
             // 
+            this.backbtn.AutoSize = true;
             this.backbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
             this.backbtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
             this.backbtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
@@ -236,7 +238,7 @@
             this.backbtn.Image = global::NP_Archives.Properties.Resources.back_to_32px;
             this.backbtn.Location = new System.Drawing.Point(5, 10);
             this.backbtn.Name = "backbtn";
-            this.backbtn.Size = new System.Drawing.Size(46, 37);
+            this.backbtn.Size = new System.Drawing.Size(46, 40);
             this.backbtn.TabIndex = 60;
             this.backbtn.UseVisualStyleBackColor = false;
             this.backbtn.Click += new System.EventHandler(this.backbtn_Click);
@@ -267,6 +269,7 @@
             this.tabPage4.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webView26)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 

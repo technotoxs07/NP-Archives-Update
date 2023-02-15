@@ -97,14 +97,12 @@
             // webView21
             // 
             this.webView21.AllowExternalDrop = true;
-            this.webView21.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.webView21.CreationProperties = null;
             this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView21.Location = new System.Drawing.Point(0, 0);
+            this.webView21.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView21.Location = new System.Drawing.Point(3, 3);
             this.webView21.Name = "webView21";
-            this.webView21.Size = new System.Drawing.Size(1210, 534);
+            this.webView21.Size = new System.Drawing.Size(1196, 519);
             this.webView21.TabIndex = 0;
             this.webView21.ZoomFactor = 1D;
             // 
@@ -122,14 +120,12 @@
             // webView22
             // 
             this.webView22.AllowExternalDrop = true;
-            this.webView22.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.webView22.CreationProperties = null;
             this.webView22.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView22.Location = new System.Drawing.Point(0, 0);
+            this.webView22.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView22.Location = new System.Drawing.Point(3, 3);
             this.webView22.Name = "webView22";
-            this.webView22.Size = new System.Drawing.Size(1210, 534);
+            this.webView22.Size = new System.Drawing.Size(1196, 519);
             this.webView22.TabIndex = 1;
             this.webView22.ZoomFactor = 1D;
             // 

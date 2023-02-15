@@ -32,29 +32,29 @@
             this.backbtn = new System.Windows.Forms.Button();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.practicalguidepage = new System.Windows.Forms.TabPage();
-            this.practicalguidepage2 = new System.Windows.Forms.TabPage();
-            this.oldisgoldsoln1page = new System.Windows.Forms.TabPage();
-            this.oldisgoldsolnpage2 = new System.Windows.Forms.TabPage();
-            this.oldisgoldsolnpage3 = new System.Windows.Forms.TabPage();
-            this.modelquestionpage = new System.Windows.Forms.TabPage();
             this.webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.practicalguidepage2 = new System.Windows.Forms.TabPage();
             this.webView22 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.oldisgoldsoln1page = new System.Windows.Forms.TabPage();
             this.webView23 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.oldisgoldsolnpage2 = new System.Windows.Forms.TabPage();
             this.webView24 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.oldisgoldsolnpage3 = new System.Windows.Forms.TabPage();
             this.webView25 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            this.modelquestionpage = new System.Windows.Forms.TabPage();
             this.webView26 = new Microsoft.Web.WebView2.WinForms.WebView2();
             this.tabControl1.SuspendLayout();
             this.practicalguidepage.SuspendLayout();
-            this.practicalguidepage2.SuspendLayout();
-            this.oldisgoldsoln1page.SuspendLayout();
-            this.oldisgoldsolnpage2.SuspendLayout();
-            this.oldisgoldsolnpage3.SuspendLayout();
-            this.modelquestionpage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView21)).BeginInit();
+            this.practicalguidepage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView22)).BeginInit();
+            this.oldisgoldsoln1page.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView23)).BeginInit();
+            this.oldisgoldsolnpage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView24)).BeginInit();
+            this.oldisgoldsolnpage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView25)).BeginInit();
+            this.modelquestionpage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView26)).BeginInit();
             this.SuspendLayout();
             // 
@@ -72,6 +72,7 @@
             // 
             // backbtn
             // 
+            this.backbtn.AutoSize = true;
             this.backbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
             this.backbtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
             this.backbtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
@@ -80,7 +81,7 @@
             this.backbtn.Image = global::NP_Archives.Properties.Resources.back_to_32px;
             this.backbtn.Location = new System.Drawing.Point(8, 4);
             this.backbtn.Name = "backbtn";
-            this.backbtn.Size = new System.Drawing.Size(46, 37);
+            this.backbtn.Size = new System.Drawing.Size(46, 40);
             this.backbtn.TabIndex = 62;
             this.backbtn.UseVisualStyleBackColor = false;
             this.backbtn.Click += new System.EventHandler(this.backbtn_Click);
@@ -113,6 +114,19 @@
             this.practicalguidepage.Text = "Practical Guide-1";
             this.practicalguidepage.UseVisualStyleBackColor = true;
             // 
+            // webView21
+            // 
+            this.webView21.AllowExternalDrop = true;
+            this.webView21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
+            this.webView21.CreationProperties = null;
+            this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView21.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView21.Location = new System.Drawing.Point(0, 0);
+            this.webView21.Name = "webView21";
+            this.webView21.Size = new System.Drawing.Size(1202, 525);
+            this.webView21.TabIndex = 1;
+            this.webView21.ZoomFactor = 1D;
+            // 
             // practicalguidepage2
             // 
             this.practicalguidepage2.Controls.Add(this.webView22);
@@ -122,6 +136,19 @@
             this.practicalguidepage2.TabIndex = 1;
             this.practicalguidepage2.Text = "Practical Guide-2";
             this.practicalguidepage2.UseVisualStyleBackColor = true;
+            // 
+            // webView22
+            // 
+            this.webView22.AllowExternalDrop = true;
+            this.webView22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
+            this.webView22.CreationProperties = null;
+            this.webView22.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView22.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView22.Location = new System.Drawing.Point(0, 0);
+            this.webView22.Name = "webView22";
+            this.webView22.Size = new System.Drawing.Size(1202, 525);
+            this.webView22.TabIndex = 1;
+            this.webView22.ZoomFactor = 1D;
             // 
             // oldisgoldsoln1page
             // 
@@ -133,6 +160,21 @@
             this.oldisgoldsoln1page.Text = "Old is Gold Solution-1";
             this.oldisgoldsoln1page.UseVisualStyleBackColor = true;
             // 
+            // webView23
+            // 
+            this.webView23.AllowExternalDrop = true;
+            this.webView23.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.webView23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
+            this.webView23.CreationProperties = null;
+            this.webView23.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView23.Location = new System.Drawing.Point(0, 0);
+            this.webView23.Name = "webView23";
+            this.webView23.Size = new System.Drawing.Size(1210, 534);
+            this.webView23.TabIndex = 1;
+            this.webView23.ZoomFactor = 1D;
+            // 
             // oldisgoldsolnpage2
             // 
             this.oldisgoldsolnpage2.Controls.Add(this.webView24);
@@ -142,6 +184,19 @@
             this.oldisgoldsolnpage2.TabIndex = 3;
             this.oldisgoldsolnpage2.Text = "Old is Gold Solution-2";
             this.oldisgoldsolnpage2.UseVisualStyleBackColor = true;
+            // 
+            // webView24
+            // 
+            this.webView24.AllowExternalDrop = true;
+            this.webView24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
+            this.webView24.CreationProperties = null;
+            this.webView24.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView24.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView24.Location = new System.Drawing.Point(0, 0);
+            this.webView24.Name = "webView24";
+            this.webView24.Size = new System.Drawing.Size(1202, 525);
+            this.webView24.TabIndex = 1;
+            this.webView24.ZoomFactor = 1D;
             // 
             // oldisgoldsolnpage3
             // 
@@ -153,6 +208,19 @@
             this.oldisgoldsolnpage3.Text = "Old is Gold Solution-3";
             this.oldisgoldsolnpage3.UseVisualStyleBackColor = true;
             // 
+            // webView25
+            // 
+            this.webView25.AllowExternalDrop = true;
+            this.webView25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
+            this.webView25.CreationProperties = null;
+            this.webView25.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView25.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView25.Location = new System.Drawing.Point(0, 0);
+            this.webView25.Name = "webView25";
+            this.webView25.Size = new System.Drawing.Size(1202, 525);
+            this.webView25.TabIndex = 1;
+            this.webView25.ZoomFactor = 1D;
+            // 
             // modelquestionpage
             // 
             this.modelquestionpage.Controls.Add(this.webView26);
@@ -163,87 +231,16 @@
             this.modelquestionpage.Text = "Model Question";
             this.modelquestionpage.UseVisualStyleBackColor = true;
             // 
-            // webView21
-            // 
-            this.webView21.AllowExternalDrop = true;
-            this.webView21.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.webView21.CreationProperties = null;
-            this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView21.Location = new System.Drawing.Point(0, 0);
-            this.webView21.Name = "webView21";
-            this.webView21.Size = new System.Drawing.Size(1210, 534);
-            this.webView21.TabIndex = 1;
-            this.webView21.ZoomFactor = 1D;
-            // 
-            // webView22
-            // 
-            this.webView22.AllowExternalDrop = true;
-            this.webView22.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.webView22.CreationProperties = null;
-            this.webView22.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView22.Location = new System.Drawing.Point(0, 0);
-            this.webView22.Name = "webView22";
-            this.webView22.Size = new System.Drawing.Size(1210, 534);
-            this.webView22.TabIndex = 1;
-            this.webView22.ZoomFactor = 1D;
-            // 
-            // webView23
-            // 
-            this.webView23.AllowExternalDrop = true;
-            this.webView23.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.webView23.CreationProperties = null;
-            this.webView23.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView23.Location = new System.Drawing.Point(0, 0);
-            this.webView23.Name = "webView23";
-            this.webView23.Size = new System.Drawing.Size(1210, 534);
-            this.webView23.TabIndex = 1;
-            this.webView23.ZoomFactor = 1D;
-            // 
-            // webView24
-            // 
-            this.webView24.AllowExternalDrop = true;
-            this.webView24.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.webView24.CreationProperties = null;
-            this.webView24.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView24.Location = new System.Drawing.Point(0, 0);
-            this.webView24.Name = "webView24";
-            this.webView24.Size = new System.Drawing.Size(1210, 534);
-            this.webView24.TabIndex = 1;
-            this.webView24.ZoomFactor = 1D;
-            // 
-            // webView25
-            // 
-            this.webView25.AllowExternalDrop = true;
-            this.webView25.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.webView25.CreationProperties = null;
-            this.webView25.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView25.Location = new System.Drawing.Point(0, 0);
-            this.webView25.Name = "webView25";
-            this.webView25.Size = new System.Drawing.Size(1210, 534);
-            this.webView25.TabIndex = 1;
-            this.webView25.ZoomFactor = 1D;
-            // 
             // webView26
             // 
             this.webView26.AllowExternalDrop = true;
-            this.webView26.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+            this.webView26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
             this.webView26.CreationProperties = null;
             this.webView26.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView26.Dock = System.Windows.Forms.DockStyle.Fill;
             this.webView26.Location = new System.Drawing.Point(0, 0);
             this.webView26.Name = "webView26";
-            this.webView26.Size = new System.Drawing.Size(1210, 534);
+            this.webView26.Size = new System.Drawing.Size(1202, 525);
             this.webView26.TabIndex = 1;
             this.webView26.ZoomFactor = 1D;
             // 
@@ -262,16 +259,16 @@
             this.Load += new System.EventHandler(this.class11physics_Load);
             this.tabControl1.ResumeLayout(false);
             this.practicalguidepage.ResumeLayout(false);
-            this.practicalguidepage2.ResumeLayout(false);
-            this.oldisgoldsoln1page.ResumeLayout(false);
-            this.oldisgoldsolnpage2.ResumeLayout(false);
-            this.oldisgoldsolnpage3.ResumeLayout(false);
-            this.modelquestionpage.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webView21)).EndInit();
+            this.practicalguidepage2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webView22)).EndInit();
+            this.oldisgoldsoln1page.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webView23)).EndInit();
+            this.oldisgoldsolnpage2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webView24)).EndInit();
+            this.oldisgoldsolnpage3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webView25)).EndInit();
+            this.modelquestionpage.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webView26)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
