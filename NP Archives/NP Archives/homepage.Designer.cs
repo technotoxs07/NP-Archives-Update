@@ -171,6 +171,7 @@
             // button1
             // 
             this.button1.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.button1.AutoSize = true;
             this.button1.BackColor = System.Drawing.Color.Red;
             this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.Color.White;
@@ -276,6 +277,7 @@
             // button2
             // 
             this.button2.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.button2.AutoSize = true;
             this.button2.BackColor = System.Drawing.Color.Lime;
             this.button2.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button2.ForeColor = System.Drawing.Color.White;
@@ -290,6 +292,7 @@
             // btncollegelevel
             // 
             this.btncollegelevel.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.btncollegelevel.AutoSize = true;
             this.btncollegelevel.BackColor = System.Drawing.Color.Lime;
             this.btncollegelevel.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btncollegelevel.ForeColor = System.Drawing.Color.White;
