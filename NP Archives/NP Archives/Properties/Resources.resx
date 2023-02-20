@@ -118,181 +118,208 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="artificialintelligence" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\artificialintelligence.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="class11scaience" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\class11scaience.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="maximize_window_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\maximize_window_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Knowledgemanagement" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Knowledgemanagement.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="dtstrcandalgorithm" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\dtstrcandalgorithm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="mathematics" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mathematics.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="datastructure" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\datastructure.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="graphicsdesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\graphicsdesign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="statitics2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\statitics2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="hardwaredesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hardwaredesign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="physics" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\physics.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="news_feed_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\news_feed_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="class9science" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\class9science.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="dbms" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\dbms.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ecommerce" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ecommerce.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="back_to_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\back_to_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mathematics1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mathematics1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="collegelogin" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\collegelogin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="kindpng_1272217" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\kindpng_1272217.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="numericalmethod" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\numericalmethod.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="computerneyworks" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\computerneyworks.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="compilerdesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\compilerdesign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="webtechnology" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\webtechnology.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="kindpng_1456269" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\kindpng_1456269.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="simulationandmodelling" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\simulationandmodelling.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="netcentriccomputing" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\netcentriccomputing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="robotics" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\robotics.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="operatingsystem" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\operatingsystem.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="datamining" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\datamining.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ajava" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ajava.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cprogramming" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cprogramming.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="digitallogics" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\digitallogics.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="theoryofcumputation" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\theoryofcumputation.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="technmicalwriting" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\technmicalwriting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="egovernance" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\egovernance.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="microprocessor" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\microprocessor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="neuralnetwork" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\neuralnetwork.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="wirelessnetworking" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\wirelessnetworking.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="DiscreteStructure" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DiscreteStructure.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="class10science" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\class10science.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="dtstrcandalgorithm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dtstrcandalgorithm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="InformationTechnology" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\InformationTechnology.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="schoollevel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\schoollevel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="intership" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\intership.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ajava1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ajava1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="maximize_window_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maximize_window_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="appliedlogic" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\appliedlogic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="datanalysisanddesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\datanalysisanddesign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="cognitivescience" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cognitivescience.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cryptography" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cryptography.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="systemanalysisanddesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\systemanalysisanddesign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="softwareenginerring" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\softwareenginerring.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="DiscreteStructure" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DiscreteStructure.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="2quantum" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2quantum.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bachelorlvl" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bachelorlvl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mathematics2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mathematics2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="microprocessorbaseddesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\microprocessorbaseddesign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="computerarchitecture" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\computerarchitecture.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="imageprocessing" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\imageprocessing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="news_feed_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\news_feed_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="artificialintelligence" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\artificialintelligence.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cryptography" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cryptography.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cprogramming" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cprogramming.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="egovernance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\egovernance.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="python" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\python.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mathematics2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mathematics2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="news_feed_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\news_feed_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="systemanalysisanddesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\systemanalysisanddesign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ajava" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ajava.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="computerneyworks" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\computerneyworks.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="statitics2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\statitics2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ajava1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ajava1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="numericalmethod" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\numericalmethod.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="physics" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\physics.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wirelessnetworking" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wirelessnetworking.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Knowledgemanagement" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Knowledgemanagement.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="graphicsdesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\graphicsdesign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="microprocessor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\microprocessor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="datanalysisanddesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\datanalysisanddesign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="datastructure" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\datastructure.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kindpng_1456269" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kindpng_1456269.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="netcentriccomputing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\netcentriccomputing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="php" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\php.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="operatingsystem" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\operatingsystem.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imageprocessing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imageprocessing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="class11scaience" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\class11scaience.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="class10science" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\class10science.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="javascript" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\javascript.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="technmicalwriting" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\technmicalwriting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hacking" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hacking.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ecommerce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ecommerce.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="datamining" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\datamining.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="softwareenginerring" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\softwareenginerring.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back_to_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back_to_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="webtechnology" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\webtechnology.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="simulationandmodelling" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\simulationandmodelling.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="electives" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\electives.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="robotics" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\robotics.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="intership" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\intership.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="theoryofcumputation" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\theoryofcumputation.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="schoollevel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\schoollevel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bachelorlvl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bachelorlvl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="microprocessorbaseddesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\microprocessorbaseddesign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="class9science" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\class9science.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="javaaaa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\javaaaa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="computerarchitecture" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\computerarchitecture.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="csharp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\csharp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InformationTechnology" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\InformationTechnology.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="kindpng_7041009" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kindpng_7041009.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2quantum" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2quantum.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hardwaredesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hardwaredesign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="androidstudio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\androidstudio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="login" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\login.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dbms" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dbms.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mathematics1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mathematics1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kindpng_1272217" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kindpng_1272217.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="compilerdesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\compilerdesign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="collegelogin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\collegelogin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="digitallogics" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\digitallogics.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back_to_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back_to_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

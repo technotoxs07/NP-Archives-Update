@@ -289,6 +289,30 @@
     <Compile Update="homepage.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programmingandhacking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programming\androidstudio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programming\csharp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programming\java.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programming\javascript.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programming\php.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programming\python.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="schoollevel.cs">
       <SubType>Form</SubType>
     </Compile>

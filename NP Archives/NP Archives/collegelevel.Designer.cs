@@ -69,6 +69,7 @@
             // btnclass12physics
             // 
             btnclass12physics.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            btnclass12physics.AutoSize = true;
             btnclass12physics.BackColor = System.Drawing.Color.Lime;
             btnclass12physics.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             btnclass12physics.ForeColor = System.Drawing.Color.White;
@@ -122,6 +123,7 @@
             // btnclass12biology
             // 
             this.btnclass12biology.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass12biology.AutoSize = true;
             this.btnclass12biology.BackColor = System.Drawing.Color.Lime;
             this.btnclass12biology.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass12biology.ForeColor = System.Drawing.Color.White;
@@ -136,6 +138,7 @@
             // btnclass12computer
             // 
             this.btnclass12computer.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass12computer.AutoSize = true;
             this.btnclass12computer.BackColor = System.Drawing.Color.Lime;
             this.btnclass12computer.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass12computer.ForeColor = System.Drawing.Color.White;
@@ -150,6 +153,7 @@
             // btnclass12sst
             // 
             this.btnclass12sst.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass12sst.AutoSize = true;
             this.btnclass12sst.BackColor = System.Drawing.Color.Lime;
             this.btnclass12sst.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass12sst.ForeColor = System.Drawing.Color.White;
@@ -231,6 +235,7 @@
             // btnclass12chemistry
             // 
             this.btnclass12chemistry.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass12chemistry.AutoSize = true;
             this.btnclass12chemistry.BackColor = System.Drawing.Color.Lime;
             this.btnclass12chemistry.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass12chemistry.ForeColor = System.Drawing.Color.White;
@@ -245,6 +250,7 @@
             // btnclass12zoology
             // 
             this.btnclass12zoology.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass12zoology.AutoSize = true;
             this.btnclass12zoology.BackColor = System.Drawing.Color.Lime;
             this.btnclass12zoology.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass12zoology.ForeColor = System.Drawing.Color.White;
@@ -259,6 +265,7 @@
             // btnclass12botany
             // 
             this.btnclass12botany.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass12botany.AutoSize = true;
             this.btnclass12botany.BackColor = System.Drawing.Color.Lime;
             this.btnclass12botany.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass12botany.ForeColor = System.Drawing.Color.White;
@@ -273,6 +280,7 @@
             // btnclass12maths
             // 
             this.btnclass12maths.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass12maths.AutoSize = true;
             this.btnclass12maths.BackColor = System.Drawing.Color.Lime;
             this.btnclass12maths.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass12maths.ForeColor = System.Drawing.Color.White;
@@ -287,6 +295,7 @@
             // btnclass12neplai
             // 
             this.btnclass12neplai.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass12neplai.AutoSize = true;
             this.btnclass12neplai.BackColor = System.Drawing.Color.Lime;
             this.btnclass12neplai.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass12neplai.ForeColor = System.Drawing.Color.White;
@@ -301,6 +310,7 @@
             // btnclass12english
             // 
             this.btnclass12english.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass12english.AutoSize = true;
             this.btnclass12english.BackColor = System.Drawing.Color.Lime;
             this.btnclass12english.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass12english.ForeColor = System.Drawing.Color.White;
@@ -362,6 +372,7 @@
             // btnclass11botany
             // 
             this.btnclass11botany.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass11botany.AutoSize = true;
             this.btnclass11botany.BackColor = System.Drawing.Color.Lime;
             this.btnclass11botany.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass11botany.ForeColor = System.Drawing.Color.White;
@@ -376,6 +387,7 @@
             // btnclass11chemistry
             // 
             this.btnclass11chemistry.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass11chemistry.AutoSize = true;
             this.btnclass11chemistry.BackColor = System.Drawing.Color.Lime;
             this.btnclass11chemistry.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass11chemistry.ForeColor = System.Drawing.Color.White;
@@ -390,6 +402,7 @@
             // btnclass11maths
             // 
             this.btnclass11maths.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass11maths.AutoSize = true;
             this.btnclass11maths.BackColor = System.Drawing.Color.Lime;
             this.btnclass11maths.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass11maths.ForeColor = System.Drawing.Color.White;
@@ -404,6 +417,7 @@
             // btnclass11computer
             // 
             this.btnclass11computer.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass11computer.AutoSize = true;
             this.btnclass11computer.BackColor = System.Drawing.Color.Lime;
             this.btnclass11computer.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass11computer.ForeColor = System.Drawing.Color.White;
@@ -419,6 +433,7 @@
             // btnclass11physics
             // 
             this.btnclass11physics.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass11physics.AutoSize = true;
             this.btnclass11physics.BackColor = System.Drawing.Color.Lime;
             this.btnclass11physics.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass11physics.ForeColor = System.Drawing.Color.White;
@@ -433,6 +448,7 @@
             // btnclass11biology
             // 
             this.btnclass11biology.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass11biology.AutoSize = true;
             this.btnclass11biology.BackColor = System.Drawing.Color.Lime;
             this.btnclass11biology.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass11biology.ForeColor = System.Drawing.Color.White;
@@ -447,6 +463,7 @@
             // btnclass11nepali
             // 
             this.btnclass11nepali.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass11nepali.AutoSize = true;
             this.btnclass11nepali.BackColor = System.Drawing.Color.Lime;
             this.btnclass11nepali.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass11nepali.ForeColor = System.Drawing.Color.White;
@@ -461,6 +478,7 @@
             // btnclass11english
             // 
             this.btnclass11english.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass11english.AutoSize = true;
             this.btnclass11english.BackColor = System.Drawing.Color.Lime;
             this.btnclass11english.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass11english.ForeColor = System.Drawing.Color.White;

@@ -49,6 +49,7 @@
             this.btncollegelevel = new System.Windows.Forms.Button();
             this.schoollvlbn = new System.Windows.Forms.Button();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.label3 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.backgrod.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
@@ -138,6 +139,7 @@
             this.backgrod.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.backgrod.Controls.Add(this.label3);
             this.backgrod.Controls.Add(this.pictureBox4);
             this.backgrod.Controls.Add(this.button1);
             this.backgrod.Controls.Add(this.lblinternetconnectioncheck);
@@ -323,6 +325,17 @@
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label3.ForeColor = System.Drawing.Color.White;
+            this.label3.Location = new System.Drawing.Point(10, 589);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(139, 21);
+            this.label3.TabIndex = 19;
+            this.label3.Text = "© copyright 2023";
+            // 
             // homepage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -368,5 +381,6 @@
         private Label label2;
         private PictureBox pictureBox4;
         private Button button1;
+        private Label label3;
     }
 }

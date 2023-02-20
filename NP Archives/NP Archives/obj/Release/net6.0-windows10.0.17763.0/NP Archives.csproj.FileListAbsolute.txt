@@ -377,6 +377,14 @@ C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Rele
 C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP Archives.pdb
 C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP Archives.genruntimeconfig.cache
 C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\ref\NP Archives.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.login.resources
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programmingandhacking.resources
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programming.androidstudio.resources
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programming.csharp.resources
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programming.java.resources
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programming.javascript.resources
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programming.php.resources
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programming.python.resources
 C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\NP Archives.dll.manifest
 C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\NP Archives.application
 C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP Archives.dll.manifest

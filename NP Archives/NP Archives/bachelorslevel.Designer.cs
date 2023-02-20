@@ -120,6 +120,7 @@
             // csit6thsem
             // 
             this.csit6thsem.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.csit6thsem.AutoSize = true;
             this.csit6thsem.BackColor = System.Drawing.Color.Lime;
             this.csit6thsem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.csit6thsem.ForeColor = System.Drawing.Color.White;
@@ -134,6 +135,7 @@
             // csit4thsem
             // 
             this.csit4thsem.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.csit4thsem.AutoSize = true;
             this.csit4thsem.BackColor = System.Drawing.Color.Lime;
             this.csit4thsem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.csit4thsem.ForeColor = System.Drawing.Color.White;
@@ -148,6 +150,7 @@
             // csit3rdsem
             // 
             this.csit3rdsem.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.csit3rdsem.AutoSize = true;
             this.csit3rdsem.BackColor = System.Drawing.Color.Lime;
             this.csit3rdsem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.csit3rdsem.ForeColor = System.Drawing.Color.White;
@@ -162,6 +165,7 @@
             // csit2ndsem
             // 
             this.csit2ndsem.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.csit2ndsem.AutoSize = true;
             this.csit2ndsem.BackColor = System.Drawing.Color.Lime;
             this.csit2ndsem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.csit2ndsem.ForeColor = System.Drawing.Color.White;
@@ -176,6 +180,7 @@
             // csit1stsem
             // 
             this.csit1stsem.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.csit1stsem.AutoSize = true;
             this.csit1stsem.BackColor = System.Drawing.Color.Lime;
             this.csit1stsem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.csit1stsem.ForeColor = System.Drawing.Color.White;
@@ -196,9 +201,9 @@
             this.button10.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
             this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button10.Image = global::NP_Archives.Properties.Resources.back_to_32px;
-            this.button10.Location = new System.Drawing.Point(0, 3);
+            this.button10.Location = new System.Drawing.Point(3, 3);
             this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(46, 40);
+            this.button10.Size = new System.Drawing.Size(58, 55);
             this.button10.TabIndex = 80;
             this.button10.UseVisualStyleBackColor = false;
             this.button10.Click += new System.EventHandler(this.button10_Click);
@@ -206,6 +211,7 @@
             // bca8sem
             // 
             this.bca8sem.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.bca8sem.AutoSize = true;
             this.bca8sem.BackColor = System.Drawing.Color.Lime;
             this.bca8sem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bca8sem.ForeColor = System.Drawing.Color.White;
@@ -233,6 +239,7 @@
             // bca7sem
             // 
             this.bca7sem.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.bca7sem.AutoSize = true;
             this.bca7sem.BackColor = System.Drawing.Color.Lime;
             this.bca7sem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bca7sem.ForeColor = System.Drawing.Color.White;
@@ -260,6 +267,7 @@
             // bca6sem
             // 
             this.bca6sem.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.bca6sem.AutoSize = true;
             this.bca6sem.BackColor = System.Drawing.Color.Lime;
             this.bca6sem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bca6sem.ForeColor = System.Drawing.Color.White;
@@ -274,6 +282,7 @@
             // bca5sem
             // 
             this.bca5sem.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.bca5sem.AutoSize = true;
             this.bca5sem.BackColor = System.Drawing.Color.Lime;
             this.bca5sem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bca5sem.ForeColor = System.Drawing.Color.White;
@@ -300,6 +309,7 @@
             // bca4sem
             // 
             this.bca4sem.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.bca4sem.AutoSize = true;
             this.bca4sem.BackColor = System.Drawing.Color.Lime;
             this.bca4sem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bca4sem.ForeColor = System.Drawing.Color.White;
@@ -325,6 +335,7 @@
             // bca3sem
             // 
             this.bca3sem.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.bca3sem.AutoSize = true;
             this.bca3sem.BackColor = System.Drawing.Color.Lime;
             this.bca3sem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bca3sem.ForeColor = System.Drawing.Color.White;
@@ -351,6 +362,7 @@
             // bca2sem
             // 
             this.bca2sem.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.bca2sem.AutoSize = true;
             this.bca2sem.BackColor = System.Drawing.Color.Lime;
             this.bca2sem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bca2sem.ForeColor = System.Drawing.Color.White;
@@ -389,6 +401,7 @@
             // bca1sem
             // 
             this.bca1sem.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.bca1sem.AutoSize = true;
             this.bca1sem.BackColor = System.Drawing.Color.Lime;
             this.bca1sem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.bca1sem.ForeColor = System.Drawing.Color.White;
@@ -414,10 +427,11 @@
             // csit8thsem
             // 
             this.csit8thsem.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.csit8thsem.AutoSize = true;
             this.csit8thsem.BackColor = System.Drawing.Color.Lime;
             this.csit8thsem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.csit8thsem.ForeColor = System.Drawing.Color.White;
-            this.csit8thsem.Location = new System.Drawing.Point(256, 481);
+            this.csit8thsem.Location = new System.Drawing.Point(259, 481);
             this.csit8thsem.Name = "csit8thsem";
             this.csit8thsem.Size = new System.Drawing.Size(121, 35);
             this.csit8thsem.TabIndex = 64;
@@ -428,6 +442,7 @@
             // csit7thsem
             // 
             this.csit7thsem.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.csit7thsem.AutoSize = true;
             this.csit7thsem.BackColor = System.Drawing.Color.Lime;
             this.csit7thsem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.csit7thsem.ForeColor = System.Drawing.Color.White;
@@ -442,6 +457,7 @@
             // csit5thsem
             // 
             this.csit5thsem.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.csit5thsem.AutoSize = true;
             this.csit5thsem.BackColor = System.Drawing.Color.Lime;
             this.csit5thsem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.csit5thsem.ForeColor = System.Drawing.Color.White;

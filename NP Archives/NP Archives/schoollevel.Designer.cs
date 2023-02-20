@@ -67,6 +67,7 @@
             // btnclass10science
             // 
             btnclass10science.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            btnclass10science.AutoSize = true;
             btnclass10science.BackColor = System.Drawing.Color.Lime;
             btnclass10science.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             btnclass10science.ForeColor = System.Drawing.Color.White;
@@ -185,6 +186,7 @@
             // btnclass10computer
             // 
             this.btnclass10computer.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass10computer.AutoSize = true;
             this.btnclass10computer.BackColor = System.Drawing.Color.Lime;
             this.btnclass10computer.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass10computer.ForeColor = System.Drawing.Color.White;
@@ -199,6 +201,7 @@
             // btnclass10sst
             // 
             this.btnclass10sst.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass10sst.AutoSize = true;
             this.btnclass10sst.BackColor = System.Drawing.Color.Lime;
             this.btnclass10sst.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass10sst.ForeColor = System.Drawing.Color.White;
@@ -213,6 +216,7 @@
             // btnclass10hpe
             // 
             this.btnclass10hpe.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass10hpe.AutoSize = true;
             this.btnclass10hpe.BackColor = System.Drawing.Color.Lime;
             this.btnclass10hpe.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass10hpe.ForeColor = System.Drawing.Color.White;
@@ -227,6 +231,7 @@
             // btnclass10maths
             // 
             this.btnclass10maths.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass10maths.AutoSize = true;
             this.btnclass10maths.BackColor = System.Drawing.Color.Lime;
             this.btnclass10maths.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass10maths.ForeColor = System.Drawing.Color.White;
@@ -241,6 +246,7 @@
             // btnclass10neplai
             // 
             this.btnclass10neplai.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass10neplai.AutoSize = true;
             this.btnclass10neplai.BackColor = System.Drawing.Color.Lime;
             this.btnclass10neplai.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass10neplai.ForeColor = System.Drawing.Color.White;
@@ -255,6 +261,7 @@
             // btnclass10english
             // 
             this.btnclass10english.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.btnclass10english.AutoSize = true;
             this.btnclass10english.BackColor = System.Drawing.Color.Lime;
             this.btnclass10english.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass10english.ForeColor = System.Drawing.Color.White;
@@ -317,6 +324,7 @@
             // btnclass9computer
             // 
             this.btnclass9computer.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass9computer.AutoSize = true;
             this.btnclass9computer.BackColor = System.Drawing.Color.Lime;
             this.btnclass9computer.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass9computer.ForeColor = System.Drawing.Color.White;
@@ -331,6 +339,7 @@
             // btnclass9opt
             // 
             this.btnclass9opt.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass9opt.AutoSize = true;
             this.btnclass9opt.BackColor = System.Drawing.Color.Lime;
             this.btnclass9opt.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass9opt.ForeColor = System.Drawing.Color.White;
@@ -345,6 +354,7 @@
             // btnclass9sst
             // 
             this.btnclass9sst.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass9sst.AutoSize = true;
             this.btnclass9sst.BackColor = System.Drawing.Color.Lime;
             this.btnclass9sst.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass9sst.ForeColor = System.Drawing.Color.White;
@@ -359,6 +369,7 @@
             // btnclass9hpe
             // 
             this.btnclass9hpe.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass9hpe.AutoSize = true;
             this.btnclass9hpe.BackColor = System.Drawing.Color.Lime;
             this.btnclass9hpe.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass9hpe.ForeColor = System.Drawing.Color.White;
@@ -373,6 +384,7 @@
             // btnclass9science
             // 
             this.btnclass9science.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass9science.AutoSize = true;
             this.btnclass9science.BackColor = System.Drawing.Color.Lime;
             this.btnclass9science.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass9science.ForeColor = System.Drawing.Color.White;
@@ -387,6 +399,7 @@
             // btnclass9maths
             // 
             this.btnclass9maths.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass9maths.AutoSize = true;
             this.btnclass9maths.BackColor = System.Drawing.Color.Lime;
             this.btnclass9maths.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass9maths.ForeColor = System.Drawing.Color.White;
@@ -401,6 +414,7 @@
             // btnclass9nepali
             // 
             this.btnclass9nepali.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass9nepali.AutoSize = true;
             this.btnclass9nepali.BackColor = System.Drawing.Color.Lime;
             this.btnclass9nepali.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass9nepali.ForeColor = System.Drawing.Color.White;
@@ -414,7 +428,7 @@
             // 
             // btnclass9english
             // 
-            this.btnclass9english.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnclass9english.AutoSize = true;
             this.btnclass9english.BackColor = System.Drawing.Color.Lime;
             this.btnclass9english.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnclass9english.ForeColor = System.Drawing.Color.White;

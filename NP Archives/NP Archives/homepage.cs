@@ -17,7 +17,7 @@ namespace NP_Archives
             InitializeComponent();
         }
 
-        private void homepage_Load(object sender, EventArgs e)
+        public void homepage_Load(object sender, EventArgs e)
         {
             timer1.Start();
             lbltimer.Text = DateTime.Now.ToLongTimeString();
@@ -108,7 +108,7 @@ namespace NP_Archives
             ChildForm.Show();
         }
 
-        private void backgrod_Paint(object sender, PaintEventArgs e)
+        public void backgrod_Paint(object sender, PaintEventArgs e)
         {
 
         }
@@ -168,7 +168,24 @@ namespace NP_Archives
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Only For CSIT And Admin User", MessageBoxButtons.RetryCancel.ToString());
+            //MessageBox.Show("Only For CSIT And Admin User", MessageBoxButtons.RetryCancel.ToString());
+            // login log = new login();
+            //log.ShowDialog();
+            gotoprogramminghacking(new Programmingandhacking());
+        }
+
+        private void gotoprogramminghacking(Programmingandhacking ChildForm)
+        {
+            if (activeForm != null)
+                activeForm.Close();
+            activeForm = ChildForm;
+            ChildForm.TopLevel = false;
+            ChildForm.FormBorderStyle = FormBorderStyle.None;
+            ChildForm.Dock = DockStyle.Fill;
+            backgrod.Controls.Add(ChildForm);
+            backgrod.Tag = ChildForm;
+            ChildForm.BringToFront();
+            ChildForm.Show();
         }
     }
 }
