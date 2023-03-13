@@ -40,6 +40,8 @@
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.webView25 = new Microsoft.Web.WebView2.WinForms.WebView2();
             this.backbtn = new System.Windows.Forms.Button();
+            this.tabPage4 = new System.Windows.Forms.TabPage();
+            this.webView26 = new Microsoft.Web.WebView2.WinForms.WebView2();
             this.tabControl1.SuspendLayout();
             this.textbookpage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView21)).BeginInit();
@@ -51,6 +53,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.webView24)).BeginInit();
             this.tabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView25)).BeginInit();
+            this.tabPage4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.webView26)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -63,6 +67,7 @@
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Controls.Add(this.tabPage3);
+            this.tabControl1.Controls.Add(this.tabPage4);
             this.tabControl1.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.tabControl1.Location = new System.Drawing.Point(1, 48);
             this.tabControl1.Name = "tabControl1";
@@ -200,6 +205,30 @@
             this.backbtn.UseVisualStyleBackColor = false;
             this.backbtn.Click += new System.EventHandler(this.backbtn_Click);
             // 
+            // tabPage4
+            // 
+            this.tabPage4.Controls.Add(this.webView26);
+            this.tabPage4.Location = new System.Drawing.Point(4, 28);
+            this.tabPage4.Name = "tabPage4";
+            this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage4.Size = new System.Drawing.Size(1202, 525);
+            this.tabPage4.TabIndex = 5;
+            this.tabPage4.Text = "C++ Simple Book";
+            this.tabPage4.UseVisualStyleBackColor = true;
+            // 
+            // webView26
+            // 
+            this.webView26.AllowExternalDrop = true;
+            this.webView26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
+            this.webView26.CreationProperties = null;
+            this.webView26.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView26.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView26.Location = new System.Drawing.Point(3, 3);
+            this.webView26.Name = "webView26";
+            this.webView26.Size = new System.Drawing.Size(1196, 519);
+            this.webView26.TabIndex = 4;
+            this.webView26.ZoomFactor = 1D;
+            // 
             // objectorientedprogramming
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -223,6 +252,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.webView24)).EndInit();
             this.tabPage3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.webView25)).EndInit();
+            this.tabPage4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.webView26)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -241,5 +272,7 @@
         private Microsoft.Web.WebView2.WinForms.WebView2 webView24;
         private TabPage tabPage3;
         private Microsoft.Web.WebView2.WinForms.WebView2 webView25;
+        private TabPage tabPage4;
+        private Microsoft.Web.WebView2.WinForms.WebView2 webView26;
     }
 }

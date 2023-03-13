@@ -29,6 +29,7 @@ namespace NP_Archives.bsc.csit.CSIT_2_sem
             await webView23.EnsureCoreWebView2Async(null);
             await webView24.EnsureCoreWebView2Async(null);
             await webView25.EnsureCoreWebView2Async(null);
+            await webView26.EnsureCoreWebView2Async(null);
         }
 
         private async void InitBrowser()
@@ -39,6 +40,7 @@ namespace NP_Archives.bsc.csit.CSIT_2_sem
             webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1MbVojS9-n9T_iQ4bDSBFpBuaQx1C-3xl");
             webView24.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1GUBR7Dh5pcTNV6JYvlCjSOM7ceGHyUhL");
             webView25.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=12I8ZT8IIrsYbq8Bd_fzgVRPqmJ6feHiw");
+            webView26.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1dLMBTg6DQqYYfijGAGradSwsu-UqxrvL");
         }
 
         private void objectorientedprogramming_Load(object sender, EventArgs e)

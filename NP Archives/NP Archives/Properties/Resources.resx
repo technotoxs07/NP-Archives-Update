@@ -133,6 +133,9 @@
   <data name="maximize_window_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\maximize_window_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="back_to_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back_to_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="appliedlogic" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\appliedlogic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -211,6 +214,9 @@
   <data name="php" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\php.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="electives" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\electives.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="operatingsystem" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\operatingsystem.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -229,8 +235,8 @@
   <data name="technmicalwriting" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\technmicalwriting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="hacking" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hacking.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="kindpng_247631" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kindpng_247631.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ecommerce" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ecommerce.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -250,8 +256,8 @@
   <data name="simulationandmodelling" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\simulationandmodelling.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="electives" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\electives.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="hacking" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hacking.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="robotics" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\robotics.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -319,7 +325,7 @@
   <data name="digitallogics" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\digitallogics.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="back_to_64px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\back_to_64px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pngegg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngegg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

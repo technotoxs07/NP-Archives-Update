@@ -463,6 +463,16 @@ namespace NP_Archives.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap kindpng_247631 {
+            get {
+                object obj = ResourceManager.GetObject("kindpng_247631", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap kindpng_7041009 {
             get {
                 object obj = ResourceManager.GetObject("kindpng_7041009", resourceCulture);
@@ -626,6 +636,16 @@ namespace NP_Archives.Properties {
         internal static System.Drawing.Bitmap physics {
             get {
                 object obj = ResourceManager.GetObject("physics", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngegg {
+            get {
+                object obj = ResourceManager.GetObject("pngegg", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

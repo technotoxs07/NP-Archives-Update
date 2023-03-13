@@ -149,5 +149,17 @@ namespace NP_Archives
             login lg = new login();
             lg.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            login lg = new login();
+            lg.ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            login lg = new login();
+            lg.ShowDialog();
+        }
     }
 }
